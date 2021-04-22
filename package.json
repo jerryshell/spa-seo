@@ -1,0 +1,19 @@
+{
+  "name": "spa-seo",
+  "version": "1.0.0",
+  "author": "Jerry <calljerryli@pm.me>",
+  "license": "GPLv3",
+  "description": "Single Page Application SEO",
+  "scripts": {
+    "serve": "node server.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "spa",
+    "seo"
+  ],
+  "dependencies": {
+    "express": "^4.17.1",
+    "puppeteer": "^9.0.0"
+  }
+}
